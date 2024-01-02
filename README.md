@@ -1,10 +1,18 @@
-# 🏗 Bodhi AI Explorer
+# 🏗 Bodhi-Bodhi
 
 <h4 align="center">
-  <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
+  <a href="https://bodhi.wtf/13773"> -[ Whitepaper on Bodhi ]- </a>
+  <a href="https://google.com/"> -[ Lanuch App ]- </a>
 </h4>
 
-🧪 Bodhi AI Explorer 是一个基于向量化数据和智能合约的 Bodhi 内容搜索和去中心化内容标注 App。
+🧪 Bodhi-Bodhi 包含 dApp 和浏览器插件，集成了如下功能：
+
+- 订阅一个作者
+- 分享这篇文章
+- 将当前持有的 Shares 赠送他人
+- 查看当前文章隐藏内容
+- 给这篇文章作标记
+- Awesome Bodhi Apps
 
 
 ## Quickstart
