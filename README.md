@@ -2,6 +2,7 @@
 
 <h4 align="center">
   <a href="https://bodhi.wtf/13773"> -[ Whitepaper on Bodhi ]- </a>
+  <br>
   <a href="https://google.com/"> -[ Lanuch App ]- </a>
 </h4>
 
