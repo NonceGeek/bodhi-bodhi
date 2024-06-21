@@ -4,12 +4,12 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <a
-        href="https://x.com/0xleeduckgo"
+        href="https://bodhi.wtf/13773"
         target="_blank"
         rel="noopener noreferrer"
       >
         <span>
-        ❤️follow my twitter❤️
+        ❤️Support Bodhi-Bodhi❤️
         </span>
       </a>
     </footer>

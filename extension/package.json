@@ -2,7 +2,7 @@
   "name": "bodhi-bodhi",
   "version": "0.0.1",
   "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/noncegeek/",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "build": "npm run prep",
     "prep": "npm run exp && node out.js",

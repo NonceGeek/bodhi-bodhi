@@ -101,8 +101,8 @@ export const Header = () => {
             <Image alt="SE2 logo" className="cursor-pointer" fill src="/logo.svg" />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">Bodhi AI Explorer</span>
-            <span className="text-xs">Search and Tag Bodhi Contents, powered by AI.</span>
+            <span className="font-bold leading-tight">Bodhi Bodhi</span>
+            <span className="text-xs">Bodhi Chrome Extension and dApp.</span>
           </div>
         </Link>
         <ul className="hidden lg:flex lg:flex-nowrap menu menu-horizontal px-1 gap-2">
