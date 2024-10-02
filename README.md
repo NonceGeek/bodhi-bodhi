@@ -3,7 +3,7 @@
 <h4 align="center">
   <a href="https://bodhi.wtf/13773"> -[ Whitepaper on Bodhi ]- </a>
   <br>
-  <a href="https://google.com/"> -[ Lanuch App ]- </a>
+  <a href="https://chromewebstore.google.com/detail/bodhi-bodhi/nfeeicgajofocidebkhplibmoegballg?utm_source=ext_app_menu"> -[ Lanuch App ]- </a>
 </h4>
 
 🧪 Bodhi-Bodhi 包含 dApp 和浏览器插件，集成了如下功能：
@@ -18,7 +18,7 @@
 
 ## Quickstart
 
-如果您想快速体验我们的功能请通过：<a href="https://bodhi.movespace.xyz/">Lanuch App</a>
+如果您想快速体验我们的功能请通过：<a href="https://chromewebstore.google.com/detail/bodhi-bodhi/nfeeicgajofocidebkhplibmoegballg?utm_source=ext_app_menu">Lanuch App</a>
 
 ## Frontend
 ### Requirements
